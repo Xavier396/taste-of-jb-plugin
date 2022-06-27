@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.xavier396.tasteofjbplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.xavier396.tasteofjbplugin.MyBundle
 
 class MyApplicationService {
 
